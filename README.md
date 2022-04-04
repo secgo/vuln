@@ -5,9 +5,8 @@ Extract Value attribute [From tag HTML]
 `go get github.com/secgo/vuln`
 
 ----------------
--u | url
--t | tag html
--a | attr
+![image](https://user-images.githubusercontent.com/103000400/161649569-83e40b1e-b203-4409-a543-a62193e3d41d.png)
+
 
 ----------------
 ![image](https://user-images.githubusercontent.com/103000400/161649381-870d14ba-0171-4d6f-abbf-865b874cd4f2.png)
