@@ -6,7 +6,7 @@ Extract Value attribute [From tag HTML]
 
 --------
 
-# how To use 
+# How To Use 
 ```bash
 ./vuln -u https://example.com -t tag -a attr
 ./vuln -u https://example.com -t a -a href
