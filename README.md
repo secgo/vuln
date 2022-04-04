@@ -5,6 +5,8 @@ Extract Value attribute [From tag HTML]
 `go get github.com/secgo/vuln`
 
 --------
+
+# how To use 
 ```bash
 ./vuln -u https://example.com -t tag -a attr
 ./vuln -u https://example.com -t a -a href
