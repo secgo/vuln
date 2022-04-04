@@ -5,9 +5,10 @@ Extract Value attribute [From tag HTML]
 `go get github.com/secgo/vuln`
 
 --------
+```bash
 ./vuln -u https://example.com -t tag -a attr
-
 ./vuln -u https://example.com -t a -a href
+```
 
 ----------------
 ![image](https://user-images.githubusercontent.com/103000400/161649612-ef223ab9-a410-4c84-97f0-c825e379f33f.png)
